@@ -1,0 +1,2 @@
+function copiar(){navigator.clipboard.writeText(clabe.value);m.textContent='✅ CLABE COPIADA';}
+function abrir(){window.location='bbva://';setTimeout(()=>window.open('https://www.bbva.mx','_blank'),800);}
